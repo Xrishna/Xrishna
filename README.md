@@ -1,5 +1,4 @@
 - <h1 align="center">Hi I'm Krishna<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
- </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrishna&label=Profile%20views&color=0e75b6&style=plastic" alt="xrishna" /> </p>
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1619441270751.png" width="495px">
 
