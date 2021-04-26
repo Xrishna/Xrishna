@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on My new bots channel
 - 
 - 📫 How to reach me **Telegram - [@xrishna](https://t.me/aboutxrishna)**
-- 
+
 - 🤓 I am from India 🇮🇳 
-- 
+ 
 - ❤️ I am in school (class = 10 )
-- 
+
 - ⚡ Fun fact **I'm a noob.*
 
 
