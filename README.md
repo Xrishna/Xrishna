@@ -14,3 +14,9 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xrishna)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrishna&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Xrishna" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xrishna&show_icons=true&theme=tokyonight&locale=en" alt="Xrishna" /></p>
